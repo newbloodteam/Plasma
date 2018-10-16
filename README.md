@@ -1,3 +1,3 @@
-# All about Plasma in TL72
+# All about Plasma in TL73
 
-# https://github.com/orgs/newbloodteam/teams/plasma-tl72
+# https://github.com/orgs/newbloodteam/teams/plasma-tl73
